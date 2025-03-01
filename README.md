@@ -1,5 +1,4 @@
 # Project-1111
-1st of DA bootcamp
 # Apple Stock & GDP: Unveiling the Economic Connection
 
 ## Project Overview
@@ -61,4 +60,5 @@ Project by **Hilena & Rao**
 
 ## License
 This project is open-source and available under the MIT License.
+
 
