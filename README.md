@@ -53,7 +53,9 @@ Initially, we selected a **European Apple dataset**, but we discovered that it c
 
 ## Conclusion & Insights
 - Our analysis evaluated whether there is a statistically significant relationship between **US GDP growth** and **Apple stock prices**.
-- **Findings**: [Include whether the hypothesis was supported or refuted based on results]
+- **Findings**:
+    1- There is a no significant relationship between US GDP growth rate and Apple stock price
+    2- ?
 - **Implications**: If a relationship exists, it can help investors align stock investments with economic trends.
 - **Open Questions**: Are there other macroeconomic variables that might have influenced Apple’s stock price more directly?
 
